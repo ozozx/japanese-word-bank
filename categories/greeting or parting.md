@@ -1,0 +1,4 @@
+---
+aliases:
+- "greeting / parting"
+---

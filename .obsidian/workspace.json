@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "a17008508e9b2360",
+    "type": "split",
+    "children": [
+      {
+        "id": "be17a665d92cdea5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53a356fa5231a266",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "phrases/鳥.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "鳥"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2e4eac5b864d33c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "031fed854b3077fc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ae93003e1e3ff0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b58bc81581fdd565",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c27b0a32b1784f76",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0ff1a4e58f7288de",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ca",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "900e150ec5e1b13d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2e063b36a5de2715",
+    "type": "split",
+    "children": [
+      {
+        "id": "94292df8f9783a49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c00e43fa8f142657",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "phrases/鳥.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 鳥"
+            }
+          },
+          {
+            "id": "07908f6e2ca281c5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "phrases/鳥.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 鳥"
+            }
+          },
+          {
+            "id": "1acda8d0b2b88091",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bc44292b5289b9a4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "941847eeb6aa312f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "phrases/鳥.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 鳥"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "53a356fa5231a266",
+  "lastOpenFiles": [
+    "phrases/鳥.md",
+    "phrases/魚.md",
+    "phrases/高校.md",
+    "phrases/飲み.md",
+    "phrases/食べ.md",
+    "phrases/頃.md",
+    "phrases/零.md",
+    "phrases/隅.md",
+    "phrases/間.md",
+    "phrases/鏡.md",
+    "phrases/金曜日.md",
+    "phrases/金.md",
+    "phrases/野菜.md",
+    "phrases/部屋.md",
+    "phrases/違う.md",
+    "phrases/違い.md",
+    "phrases/近しい.md",
+    "phrases/近い.md",
+    "phrases/近.md",
+    "phrases/起き.md",
+    "phrases/誰.md",
+    "phrases/肉.md",
+    "phrases/種属.md",
+    "phrases/石.md",
+    "phrases/眩しい.md",
+    "phrases/眩し.md",
+    "お姉さん.md~",
+    "mark.zsh~",
+    "日本語言葉 - Sheet1.tsv~",
+    "日本語言葉 - Sheet1.tsv",
+    "mark.zsh",
+    "日本語言葉 - Sheet1.csv~",
+    "日本語言葉 - Sheet1.csv",
+    "phrases",
+    "categories",
+    "Untitled.canvas",
+    "templates"
+  ]
+}
