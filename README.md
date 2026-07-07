@@ -1,2 +1,1 @@
-This is a map / network to understand japanese better.
-best downloaded and opened through obsidian.
+This is a map / network to understand japanese better.<br>best downloaded and opened through obsidian.
