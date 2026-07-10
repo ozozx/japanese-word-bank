@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "53a356fa5231a266",
+            "id": "5e9ec7211c15c05d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "phrases/ケーキ.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "ケーキ"
             }
           }
         ]
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ca",
+                "query": "学",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "phrases/ケーキ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for ケーキ"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "phrases/ケーキ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from ケーキ"
             }
           },
           {
@@ -172,22 +172,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "phrases/ケーキ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of ケーキ"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,34 +199,34 @@
       "random-note:Open random note": false
     }
   },
-  "active": "53a356fa5231a266",
+  "active": "5e9ec7211c15c05d",
   "lastOpenFiles": [
-    "phrases/鳥.md",
-    "phrases/魚.md",
-    "phrases/高校.md",
-    "phrases/飲み.md",
-    "phrases/食べ.md",
-    "phrases/頃.md",
-    "phrases/零.md",
-    "phrases/隅.md",
-    "phrases/間.md",
-    "phrases/鏡.md",
-    "phrases/金曜日.md",
-    "phrases/金.md",
-    "phrases/野菜.md",
-    "phrases/部屋.md",
-    "phrases/違う.md",
-    "phrases/違い.md",
-    "phrases/近しい.md",
-    "phrases/近い.md",
-    "phrases/近.md",
-    "phrases/起き.md",
-    "phrases/誰.md",
-    "phrases/肉.md",
-    "phrases/種属.md",
-    "phrases/石.md",
-    "phrases/眩しい.md",
-    "phrases/眩し.md",
+    "hira-kata.md",
+    "hira-kata.md~",
+    "phrases/布団.md",
+    "phrases/ケーキ.md",
+    "phrases/ピザ.md",
+    "phrases/見.md",
+    "phrases/味見.md",
+    "phrases/味.md",
+    "phrases/美味.md",
+    "phrases/美.md",
+    "phrases/美味しい.md",
+    "phrases/サラダ.md",
+    "phrases/ラーメン.md",
+    "phrases/直美.md",
+    "phrases/健.md",
+    "phrases/また明日.md",
+    "categories/greeting or parting.md",
+    "phrases/明日.md",
+    "phrases/ごちそうさまでした.md",
+    "phrases/太.md",
+    "templates/word-template.md",
+    "phrases/健太.md",
+    "phrases/弁護士.md",
+    "phrases/優しい.md",
+    "phrases/ご飯.md",
+    "phrases/すし.md",
     "お姉さん.md~",
     "mark.zsh~",
     "日本語言葉 - Sheet1.tsv~",
@@ -238,7 +236,6 @@
     "日本語言葉 - Sheet1.csv",
     "phrases",
     "categories",
-    "Untitled.canvas",
-    "templates"
+    "Untitled.canvas"
   ]
 }
